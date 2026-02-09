@@ -1,0 +1,8 @@
+
+{
+  "name": "Hearthands",
+  "description": "A social impact platform connecting NGOs, volunteers, and donors to deliver essential provisions to those in need with transparency and speed.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
